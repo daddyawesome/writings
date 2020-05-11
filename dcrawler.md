@@ -24,3 +24,6 @@ He discovers how to make it appear and disappear.
 Reading the interface,he can see his name. It shows up as Qing, however, that name does not sound familiar to him. He also read that his race is a Zu'Ma and he has no idea what it means.
 
 He found himself that he could read and the reason why he could read is unknown to him.
+
+
+I should put something here
