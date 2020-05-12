@@ -27,3 +27,53 @@ He found himself that he could read and the reason why he could read is unknown 
 
 
 I should put something here
+
+# MEtting Eli
+
+"He is yours"
+
+This said by the overseer who throws somebody like a sack in front of snakeman.
+
+Every once in a while he receive a hatchling like this.
+
+He is dedicated to offer his remaining days to train this hathling.
+
+As the overseer move away he comes closer to the thing that is given to him.
+
+"This is unusual, it does not look like a snakeman to me. It is like he is one of the humans the old stories told us about."
+
+"He does not have scales but skin on his upper torso like Lamia. Wait, he is not a Lamia because he has two legs."
+
+He gave his evaluation to the thing.
+
+"He looks weak or is he really weak, because he is the only one for this batch. No, he just looks weak, maybe."
+
+He shake the lying thing.
+
+"Hey. it is time to wake up."
+
+The lying thing start to gain its consciousness and make his body sit down even though the process looks difficult to do. Then try to say something to understand what is happening.
+
+" -8%&...%&*..&^ ", the one who had just woken said something that he does not understand.
+
+"Oh yeah! we still don't understand each other.", he said as he lick on the blood coming from the wound that just got open because the hatchling movement when awoken.
+
+He then make a small slice on his palm using his nails.
+
+"Here you go."
+
+He gave his blood to the hatchling so that they could understand each other.
+
+"Now, we could understand each other. I believe so,"
+
+"To start, let us introduce each other. My name is Eli as the great interface named me so. What is yours?"
+
+"I am Qing.", he said as he observed that the one in front of him is different from the overseer.
+
+"You look different from the overseer."
+
+"Yes, I should look different from the overseer because we are of different race. I am of the Naga race, I look like an Imoogi but I have arms. Four arms to be exact. You see but only 3 fingers on each hands unlike yours." 
+
+Eli started to teach him the basic by introducing the difference between races. 
+
+
