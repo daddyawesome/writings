@@ -28,43 +28,46 @@ He found himself that he could read and the reason why he could read is unknown 
 
 I should put something here
 
-# MEtting Eli
+# Meeting Eli
+
 
 "He is yours"
 
-This said by the overseer who throws somebody like a sack in front of snakeman.
+This said by the overseer who throws somebody like a sack in front of the snake-man.
 
-Every once in a while he receive a hatchling like this.
+Every once in awhile he receives a hatchling like this.
 
-He is dedicated to offer his remaining days to train this hathling.
+He dedicated to offering his remaining days to train this hatchling.
 
-As the overseer move away he comes closer to the thing that is given to him.
+As the overseer moves away he comes closer to the thing that is given to him.
 
-"This is unusual, it does not look like a snakeman to me. It is like he is one of the humans the old stories told us about."
+"This is unusual, it does not look like a snake-man to me. It is like he is one of the humans the old stories told us about."
 
-"He does not have scales but skin on his upper torso like Lamia. Wait, he is not a Lamia because he has two legs."
+"He does not have scales but the skin on his upper torso like Lamia. Wait, he is not a Lamia because he has two legs."
 
-He gave his evaluation to the thing.
+He gave his evaluation of the thing.
 
 "He looks weak or is he really weak, because he is the only one for this batch. No, he just looks weak, maybe."
 
-He shake the lying thing.
+He shakes the lying thing.
 
-"Hey. it is time to wake up."
+"Hey, it is time to wake up."
 
-The lying thing start to gain its consciousness and make his body sit down even though the process looks difficult to do. Then try to say something to understand what is happening.
+The lying thing starts to gain consciousness. It makes its body squat in fetal position even though the process looks difficult to do. It looks up then tries to say something to understand what is happening.
 
 " -8%&...%&*..&^ ", the one who had just woken said something that he does not understand.
 
-"Oh yeah! we still don't understand each other.", he said as he lick on the blood coming from the wound that just got open because the hatchling movement when awoken.
+"Oh yeah! we still don't understand each other." 
 
-He then make a small slice on his palm using his nails.
+He said as he licks on the blood of the hatchling. It comes from the wound that just got open because of the hatchling movement when awoken.
+
+He then makes a small slice on his palm using his nails.
 
 "Here you go."
 
 He gave his blood to the hatchling so that they could understand each other.
 
-"Now, we could understand each other. I believe so,"
+"Now, we could understand each other."
 
 "To start, let us introduce each other. My name is Eli as the great interface named me so. What is yours?"
 
@@ -72,8 +75,33 @@ He gave his blood to the hatchling so that they could understand each other.
 
 "You look different from the overseer."
 
-"Yes, I should look different from the overseer because we are of different race. I am of the Naga race, I look like an Imoogi but I have arms. Four arms to be exact. You see but only 3 fingers on each hands unlike yours." 
+"Yes, I should look different from the overseer because we are of a different races. I am of the Naga race, I look like an Imoogi but I have arms. Four arms to be exact. You see, but only 3 fingers on each hand unlike yours." 
 
-Eli started to teach him the basic by introducing the difference between races. 
+Eli started to teach him the basics by introducing the difference between races. 
 
 
+"What about you. What does the great interface say about your race? I never saw anything like you?"
+
+Qing opens again his interface and looks into his own race puzzled on what he had heard.
+
+"My race is a Zu'Ma"
+
+"Yup never heard of it. Anyway, welcome to the farm."
+
+"The farm?"
+
+"Yes, the farm. Not a farm where you cultivate vegetables. But a farm where we cultivate hatchling. To turn into food for the offspring of the Reptilian Citizens."
+
+"Reptilian Citizens?"
+
+"Before I answer your questions why don's we take care of your wounds."
+
+Eli offers his hand to help Qing to stand and he helps him to get into a puddle of mud.
+
+"Submerge yourself in there. It will help you heal faster."
+
+He helps the hatchling placed himself in the puddle.
+
+"You can sleep if you want and when you wake up you will good as new again."
+
+Without any words, Qing put himself to sleep.
