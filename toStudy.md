@@ -7,7 +7,7 @@
 5. [Become a Data Engineer: Mastering the Concepts](https://www.linkedin.com/learning/paths/become-a-data-engineer-mastering-the-concepts?u=42140260)
 6. [Advance Your Skills in the Hadoop/NoSQL Data Science Stack](https://www.linkedin.com/learning/paths/advance-your-skills-in-the-hadoopnosql-data-science-stack?u=42140260)
 7. [Advance Your Skills as a Python Data Expert](https://www.linkedin.com/learning/paths/advance-your-skills-as-a-python-data-expert?u=42140260)
-8. [Flask Essential Training](https://www.linkedin.com/learning/flask-essential-training?u=42140260)
+8. [Flask Essential Training](https://www.linkedin.com/learning/flask-essential-training?u=42140260) *doing it rignt now
 9. [Building RESTful APIs with Flask](https://www.linkedin.com/learning/building-restful-apis-with-flask?u=42140260)
 
 
