@@ -12,3 +12,5 @@
 
 
 ** Anytime [Become a Django Developer](https://www.linkedin.com/learning/paths/become-a-django-developer?u=42140260)
+
+<script src="https://gist.github.com/deleteprof/c664a6e694dce4bdfbceb5a021d99a1d.js"></script>
