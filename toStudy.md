@@ -1,5 +1,4 @@
-layout: single
-classes: wide
+
 
 # My path to learn
 
