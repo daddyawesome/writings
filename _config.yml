@@ -1,3 +1,4 @@
 title: Daddy Awesome's Writings
 description: All the things I am writing good or bad
 theme: jekyll-theme-merlot
+plugins: jekyll-gist
