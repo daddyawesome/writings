@@ -1,4 +1,4 @@
-# First Pyhon Program
+# First Python Program
 
 Data Visualization - Week 2 
 
@@ -33,8 +33,12 @@ data.columns = map(str.lower, data.columns)
 pd.set_option('display.float_format', lambda x:'%f'%x)
 data.dtypes
 ```
-![](https://snipboard.io/zM2vme.jpg)
+![](https://snipboard.io/zM2vme.jpg)  
+
+  
 **Converting selected columns to numeric dtypes:**
+
+
 ```
 cols = data.columns.drop('country')
 data[cols] = data[cols].apply(pd.to_numeric, errors='coerce')
