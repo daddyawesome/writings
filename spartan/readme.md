@@ -5,3 +5,7 @@
 3. [First Python Program](DMVW2.md)
 4. [Making Data Management Decisions](DMVW3.md)
 5. [Creating Graphs](DMVW4.md)
+
+
+# My Data Science Project
+[Posts](https://daddyawesome.github.io/data_science/)
