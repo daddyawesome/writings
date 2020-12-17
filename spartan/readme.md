@@ -13,3 +13,5 @@
      
 [about me](
 https://daddyawesome.github.io/data_science/about/) 
+
+[Cerificates](https://daddyawesome.github.io/writings/Certificates/Coursera%20ETKE44E2T3RU.pdf)
