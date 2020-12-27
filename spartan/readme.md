@@ -4,8 +4,8 @@
 2. [Getting Grounded on Analytics](sp101.md)
 3. [First Python Program](DMVW2.md)
 4. [Making Data Management Decisions](DMVW3.md)
-5. [Creating Graphs](DMVW4.md)
-6.[Hypothesis Testing and ANOVA](DATW1.md)
+5. [Creating Graphs](DMVW4.md)  
+6. [Hypothesis Testing and ANOVA](DATW1.md)
 
 
 # My Data Science Project
