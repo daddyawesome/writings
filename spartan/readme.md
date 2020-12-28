@@ -7,8 +7,8 @@
 5. [Creating Graphs](DMVW4.md)  
 6. [Hypothesis Testing and ANOVA](DATW1.md)
 7. [Hypothesis Testing and CHI Square Test of Independence](DATW2.md)
-7. [Pearson's Correlation](DATW3.md)
-
+8. [Pearson's Correlation](DATW3.md)
+9. [Testing a Potential Moderator](DATW4.md)
 
 
 # My Data Science Project
