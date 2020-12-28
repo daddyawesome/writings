@@ -6,7 +6,9 @@
 4. [Making Data Management Decisions](DMVW3.md)
 5. [Creating Graphs](DMVW4.md)  
 6. [Hypothesis Testing and ANOVA](DATW1.md)
-6. [Hypothesis Testing and CHI Square Test of Independence](DATW2.md)
+7. [Hypothesis Testing and CHI Square Test of Independence](DATW2.md)
+7. [Pearson's Correlation](DATW3.md)
+
 
 
 # My Data Science Project
