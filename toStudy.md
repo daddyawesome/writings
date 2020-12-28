@@ -15,4 +15,5 @@
 
 ** Anytime [Become a Django Developer](https://www.linkedin.com/learning/paths/become-a-django-developer?u=42140260)
 
+[My spartan](https://daddyawesome.github.io/writings/spartan/)
 {% gist c664a6e694dce4bdfbceb5a021d99a1d %}
