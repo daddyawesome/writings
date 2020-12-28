@@ -58,7 +58,8 @@ Female Employment Rate greater than 70 : Categorized as 1 (High Female Employmen
 <br>
 ### Choosing the required variables
 
-Selecting only the **Continents** and **Categorize Female Employment Rate** from the data set and dropping the NA values.
+Selecting only the **Continents** and **Categorize Female Employment Rate** from the data set and dropping the NA values.   
+<br>
 ![](https://snipboard.io/v1dfm0.jpg)
 
 ### Chi Square Test of Indepedence
