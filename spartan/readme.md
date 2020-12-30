@@ -9,7 +9,7 @@
 7. [Hypothesis Testing and CHI Square Test of Independence](DATW2.md)
 8. [Pearson's Correlation](DATW3.md)
 9. [Testing a Potential Moderator](DATW4.md)
-10. [Test a Basic Linear Regression Model(https://daddyawesome.github.io/data_science/linear%20regression%20model/python/google%20colab/2020/12/30/Regression_Modeling_in_Practice_w2.html)
+10. [Test a Basic Linear Regression Model](https://daddyawesome.github.io/data_science/linear%20regression%20model/python/google%20colab/2020/12/30/Regression_Modeling_in_Practice_w2.html)
 
 # My Data Science Project
 [Posts](https://daddyawesome.github.io/data_science/)
