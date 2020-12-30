@@ -1,5 +1,4 @@
-# Spartan Notebooks are here
-
+# My Spartan Notes and Notebooks
 1. [Sample Notebook](sample.md)
 2. [Getting Grounded on Analytics](sp101.md)
 3. [First Python Program](DMVW2.md)
@@ -15,14 +14,16 @@
 [Posts](https://daddyawesome.github.io/data_science/)
 
      
-[about me](
-https://daddyawesome.github.io/data_science/about/) 
-
-## [My Cerificates](../certificates.md)   
-
+[about me](https://daddyawesome.github.io/data_science/about/) 
 <br>
-<br>
-<br>
+<br><br>
 <br>
 
-[Python Cheat Sheet For Data Science](Certificates/PythonForDataScience.pdf "PythonForDataScience.pdf")
+# [My Cerificates](../certificates.md)   
+
+<br>
+<br>
+<br>
+<br>
+
+[Python Cheat Sheet For Data Science](https://daddyawesome.github.io/writings/Certificates/PythonForDataScience.pdf "PythonForDataScience.pdf")
