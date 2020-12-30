@@ -18,6 +18,11 @@
 [about me](
 https://daddyawesome.github.io/data_science/about/) 
 
-## [My Cerificates](writings/certificates.md)
+## [My Cerificates](../certificates.md)   
+
+<br>
+<br>
+<br>
+<br>
 
 [Python Cheat Sheet For Data Science](Certificates/PythonForDataScience.pdf "PythonForDataScience.pdf")
