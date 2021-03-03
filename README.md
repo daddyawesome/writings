@@ -16,6 +16,8 @@ I will be putting all my writings here.
 
 ---
 
-https://datastudio.google.com/reporting/94847777-7f89-407c-a6b4-f931e818c4b1/page/9ml4B
+[Data Studio Sample](https://datastudio.google.com/reporting/94847777-7f89-407c-a6b4-f931e818c4b1/page/9ml4B)
+
+[Google Sheets Sample](https://docs.google.com/spreadsheets/d/1daOgvyh6HUof6qVNzEt64lGAkQTkgYIqXm8md6HmMC4/edit?usp=sharing)
 
 
