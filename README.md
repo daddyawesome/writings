@@ -15,7 +15,7 @@ I will be putting all my writings here.
 ## [My Studies](https://daddyawesome.github.io/writings/certificates.html)
 
 ---
-
+This is Where I want to put all my trials
 [Data Studio Sample](https://datastudio.google.com/reporting/94847777-7f89-407c-a6b4-f931e818c4b1/page/9ml4B)
 
 [Google Sheets Sample](https://docs.google.com/spreadsheets/d/1daOgvyh6HUof6qVNzEt64lGAkQTkgYIqXm8md6HmMC4/edit?usp=sharing)
