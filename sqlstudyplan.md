@@ -43,3 +43,8 @@ As word of encouragement, for your job search, take  [this message from software
 > _Keep Learning!_
 
 You now have all the tools to learn SQL at your fingertips. If you immerse yourself in SQLZoo and SQLCourse, 30 days from now you could be punching out code while earning extra money in a part-time, remote SQL job. If you have any questions during your learning journey, please don't hesitate to send me a note.
+
+Day Number | Date | Bookmark
+--- | --- | ---
+Day 1|03162021|https://sqlzoo.net/wiki/SQL_Tutorial
+
