@@ -49,3 +49,4 @@ Day Number | Date | Bookmark
 Day 1|03162021|https://sqlzoo.net/wiki/SQL_Tutorial
 Day 2|03172021|https://sqlbolt.com/lesson/select_queries_with_constraints
 Day 3|03182021|break
+Day 4|03192021|break
