@@ -62,3 +62,4 @@
 - [Excel 2016 Managing And Analyzing Data](Certificates/CertificateOfCompletion_Excel%202016%20Managing%20And%20Analyzing%20Data.pdf "CertificateOfCompletion_Excel 2016 Managing And Analyzing Data.pdf")
 - [Learning Data Governance](Certificates/CertificateOfCompletion_Learning%20Data%20Governance.pdf "CertificateOfCompletion_Learning Data Governance.pdf")
 - [Operational Excellence Foundations](Certificates/CertificateOfCompletion_Operational%20Excellence%20Foundations%20(1).pdf "CertificateOfCompletion_Operational Excellence Foundations (1).pdf")
+- [AWS re/Start Graduate](https://www.credly.com/badges/95f69c19-2e26-4564-b63d-81c795d22a38)
