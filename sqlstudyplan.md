@@ -46,7 +46,7 @@ You now have all the tools to learn SQL at your fingertips. If you immerse yours
 
 Day Number | Date | Bookmark
 --- | --- | ---
-Day 1|04182022|https://sqlzoo.net/wiki/SQL_Tutorial
-Day 2|04192022|https://sqlbolt.com/lesson/select_queries_with_constraints
+Day 1|09162022|https://sqlzoo.net/wiki/SQL_Tutorial
+Day 2|09172022|https://sqlbolt.com/lesson/select_queries_with_constraints
 Day 3|1|break
 Day 4||break
