@@ -46,7 +46,9 @@
 
 - [MongoDB Basics](https://university.mongodb.com/course_completion/fe4b3d38-7bca-4c9e-b5ed-b52f84ced40f?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)
 
-## 5. Six Sigma
+## 5. R
+- [Introduction to R](https://www.datacamp.com/statement-of-accomplishment/course/fda6df2e76e0feff7a769c89c4883999c7aaff6a)
+## 6. Six Sigma
 - [CertificateOfCompletion_Operational Excellence Foundations](Certificates/CertificateOfCompletion_Operational%20Excellence%20Foundations.pdf "CertificateOfCompletion_Operational Excellence Foundations.pdf")
 - [CertificateOfCompletion_Six Sigma Foundations](Certificates/CertificateOfCompletion_Six%20Sigma%20Foundations.pdf "CertificateOfCompletion_Six Sigma Foundations.pdf")
 - [CertificateOfCompletion_Six Sigma Foundations 2](Certificates/CertificateOfCompletion_Six%20Sigma%20Foundations%20(1).pdf "CertificateOfCompletion_Six Sigma Foundations (1).pdf")
@@ -58,7 +60,7 @@
 - [CertificateOfCompletion_Statistics Foundations](Certificates/CertificateOfCompletion_Statistics%20Foundations%201.pdf "CertificateOfCompletion_Statistics Foundations 1.pdf")
 
 
-## 6. Extra
+## 7. Extra
 - [Excel 2016 Managing And Analyzing Data](Certificates/CertificateOfCompletion_Excel%202016%20Managing%20And%20Analyzing%20Data.pdf "CertificateOfCompletion_Excel 2016 Managing And Analyzing Data.pdf")
 - [Learning Data Governance](Certificates/CertificateOfCompletion_Learning%20Data%20Governance.pdf "CertificateOfCompletion_Learning Data Governance.pdf")
 - [Operational Excellence Foundations](Certificates/CertificateOfCompletion_Operational%20Excellence%20Foundations%20(1).pdf "CertificateOfCompletion_Operational Excellence Foundations (1).pdf")
